@@ -1,0 +1,11 @@
+Z:\Azure\Laboratorio\azure-api-management-payments\API\APITempo\WebApplication1\obj\Release\net8.0\PubTmp\Out\ApiNova.exe
+Z:\Azure\Laboratorio\azure-api-management-payments\API\APITempo\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+Z:\Azure\Laboratorio\azure-api-management-payments\API\APITempo\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.json
+Z:\Azure\Laboratorio\azure-api-management-payments\API\APITempo\WebApplication1\obj\Release\net8.0\PubTmp\Out\ApiNova.dll
+Z:\Azure\Laboratorio\azure-api-management-payments\API\APITempo\WebApplication1\obj\Release\net8.0\PubTmp\Out\ApiNova.deps.json
+Z:\Azure\Laboratorio\azure-api-management-payments\API\APITempo\WebApplication1\obj\Release\net8.0\PubTmp\Out\ApiNova.runtimeconfig.json
+Z:\Azure\Laboratorio\azure-api-management-payments\API\APITempo\WebApplication1\obj\Release\net8.0\PubTmp\Out\ApiNova.pdb
+Z:\Azure\Laboratorio\azure-api-management-payments\API\APITempo\WebApplication1\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+Z:\Azure\Laboratorio\azure-api-management-payments\API\APITempo\WebApplication1\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Azure\Laboratorio\azure-api-management-payments\API\APITempo\WebApplication1\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Azure\Laboratorio\azure-api-management-payments\API\APITempo\WebApplication1\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
