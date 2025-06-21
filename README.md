@@ -52,5 +52,4 @@ Inclua links para a documentação da DIO, da Microsoft ou outros recursos que f
 
 * [Link do Repositório DIO: Microsoft Application Platform](https://github.com/digitalinnovationone/Microsoft_Application_Platform)
 * [Documentação Oficial do Azure API Management](https://docs.microsoft.com/pt-br/azure/api-management/)
-* [Outras referências úteis...]
 
